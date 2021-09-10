@@ -14,7 +14,7 @@ Project created by <a href="https://github.com/farhan-dqz">SafwanGanz</a> to mak
         Reserved |
     <br> 
 </p>
-
+<a href="https://heroku.com/deploy?template=https://github.com/sirajju/Alien-Alfa2> Heroku <a>
 ----
 
   <p align="center">
