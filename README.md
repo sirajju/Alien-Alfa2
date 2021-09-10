@@ -124,6 +124,8 @@ conn.logger.level = 'trace'
 
 ```js
 conn.logger.level = 'debug'
+<a href="https://heroku.com/deploy?template=https://github.com/sirajju/Alien-Alfa2> Heroku <a>
+
 ```
 
 ---------
